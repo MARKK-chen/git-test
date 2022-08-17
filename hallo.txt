@@ -8,6 +8,9 @@ hallo git! https://git-scm.com/
 hallo git! https://git-scm.com/
 hallo git! https://git-scm.com/
 hallo git! https://git-scm.com/
-hallo git! https://git-scm.com/
+hallo git! https://gihiaupuuut-scm.com/
 hallo git! https://git-scm.com/
 allo git! https://git-scm.com/
+hallo nihao
+/usr/bin/bash: line 1: q: command not founiid
+
