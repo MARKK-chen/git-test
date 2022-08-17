@@ -13,3 +13,4 @@ hallo git! https://git-scm.com/
 hallo nihao
 wo yi xiu gai 
 hai hao le
+尝试获取新内容
